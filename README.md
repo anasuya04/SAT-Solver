@@ -1,5 +1,6 @@
 # SAT-Solver
-Given a boolean formula a SAT Solver determines whether the formula is satisfiabe or not
+Given a boolean formula a SAT Solver determines whether the formula is satisfiabe or not.
+
 Python Code file named "cnf.py" conatin the code to for solver to apply to the problems provided in cnf form.
 
 	
